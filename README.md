@@ -1,3 +1,6 @@
+# Forked for BnS NEO Overlay
+Giving credit to the original owners, but styling for BnS NEO
+
 # FFXIV Ember Overlay & Spell Timers
 Powerful, data-focused DPS overlay and spell timers for Final Fantasy XIV. Can be used with the [OverlayPlugin](https://github.com/ngld/OverlayPlugin/releases) and [ACTWebSocket](https://github.com/ZCube/ACTWebSocket) plugins for [Advanced Combat Tracker](https://advancedcombattracker.com/download.php).
 
